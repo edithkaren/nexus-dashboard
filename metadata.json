@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Dashboard",
+  "description": "A scalable enterprise-ready dashboard with simulated JWT authentication, persistent CRUD task management, and responsive design using Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
